@@ -8,7 +8,7 @@
   </head>
   <body>
 <div class="position-absolute top-50 start-50 translate-middle">
-<div class="card shadow p-3 mb-5 bg-body-tertiary rounded" style="width: 40rem; margin: 4px">
+<div class="card shadow p-3 mb-5 bg-body-tertiary  rounded" style="width: 40rem; margin: 4px">
   <div class="card-body">
   <h3><?= esc($news['title']) ?></h3>
 <p><?= esc($news['body']) ?></p>
